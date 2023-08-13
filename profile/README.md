@@ -23,4 +23,4 @@ In this repository, we share the keys to AI's realm through projects, code sampl
 
 Welcome to the AI-driven voyage where businesses soar to new heights. Let's redefine Indonesia's potential, one AI stride at a time.
 
-[![Nusantara Neural Networks Github Social Media Preview](/profile/nusantara-neural-networks-github-social-media-preview.png)](https://www.nusantaraneural.com)
+![Nusantara Neural Networks Github Social Media Preview](/profile/nusantara-neural-networks-github-social-media-preview.png)
