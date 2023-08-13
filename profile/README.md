@@ -3,7 +3,7 @@
 
 Welcome to Nusantara Neural Networks' GitHub repository!
 
-![Nusantara Neural Networks Github Social Media Preview](nusantara-neural-network-github-social-media-preview.png)
+![Nusantara Neural Networks Github Social Media Preview](nusantara-neural-networks-github-social-media-preview.png)
 
 ## About Us
 
