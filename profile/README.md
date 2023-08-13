@@ -18,7 +18,7 @@ In this repository, we share the keys to AI's realm through projects, code sampl
 <!--
 🌐 Website: []()
 -->
-📧: [Email](nusantaraneuralnetworks@gmail.com)
+📧: [Email](mailto:nusantaraneuralnetworks@gmail.com)  
 📱: [WhatsApp](https://wa.me/+6285878457164)
 
 Welcome to the AI-driven voyage where businesses soar to new heights. Let's redefine Indonesia's potential, one AI stride at a time.
