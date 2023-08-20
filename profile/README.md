@@ -24,4 +24,4 @@ Feel free to get in touch with our business consultant, Muhammad Hanif.
 
 Welcome to the AI-driven voyage where businesses soar to new heights. Let's redefine Indonesia's potential, one AI stride at a time.
 
-![Nusantara Neural Networks Github Social Media Preview](/profile/nusantara-neural-networks-github-social-media-preview.png)
+![Nusantara Neural Networks Github Social Media Preview](/profile/github-social-media-preview-dark.png)
